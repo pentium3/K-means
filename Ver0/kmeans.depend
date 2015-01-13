@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419927189 source:d:\cpp\kmeans\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<cstdio>
+
